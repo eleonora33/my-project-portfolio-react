@@ -1,3 +1,9 @@
+Welcome to My Portfolio
+
+Hosted on Vercel and Built in React
+
+My portfolio is proudly hosted on Vercel, ensuring lightning-fast load times and high availability. This web application is meticulously crafted using React, making it interactive, responsive, and user-friendly. Explore my work, skills, and projects in a seamless and efficient manner.
+
 https://my-project-portfolio-react.vercel.app/
 
 # Getting Started with Create React App
